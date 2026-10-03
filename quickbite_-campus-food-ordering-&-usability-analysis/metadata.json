@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite: Campus Food Ordering & Usability Analysis",
+  "description": "Campus cafeteria food ordering platform with an integrated UX Usability Testing & Analysis portfolio case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
